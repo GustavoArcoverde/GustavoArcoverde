@@ -12,8 +12,8 @@ ele/dele
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="gustavo-gif" height="150" style="border-radius: 5px;" src="https://images-ext-2.discordapp.net/external/x7VMFICcjNWhNOzLHNjU1Poc6UdYjIEk_7bAKI7qhJI/https/im2.ezgif.com/tmp/ezgif-2-55c687552c.gif">
-</div>
+<!--   <img align="right" alt="gustavo-gif" height="150" style="border-radius: 5px;" src="https://images-ext-2.discordapp.net/external/x7VMFICcjNWhNOzLHNjU1Poc6UdYjIEk_7bAKI7qhJI/https/im2.ezgif.com/tmp/ezgif-2-55c687552c.gif">
+</div> -->
 
 ##
 
